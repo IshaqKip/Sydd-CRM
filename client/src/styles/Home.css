@@ -1,0 +1,48 @@
+.home-container {
+    background-color: #e6f0fa;
+    min-height: 100vh;
+    padding: 20px;
+    color: #003087;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #003087;
+  }
+  
+  .section {
+    margin: 20px;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 10px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .login-buttons {
+    text-align: center;
+  }
+  
+  button {
+    background-color: #005bbb;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #003087;
+  }
